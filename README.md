@@ -1,1 +1,1 @@
-# node-express-mysqli
+# node-express-mysql
