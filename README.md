@@ -10,7 +10,7 @@ Installation:
 API endpoints:
 --------------
 
-//post module
+//tutorial module
 
 Get all tutorial                       | GET               | http://localhost:3000/api/tutorials
 
