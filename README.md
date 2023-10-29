@@ -5,7 +5,7 @@ Installation:
 
 1. clone this repository
 2. connect your database from .env
-2. run npm install & npm start
+2. run npm install & npm start 
 
 API endpoints:
 --------------
