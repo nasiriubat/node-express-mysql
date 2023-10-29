@@ -1,6 +1,6 @@
 A simple node js api project using node,express and mysql
 
-Installation:
+Installation: 
 -------------
 
 1. clone this repository
